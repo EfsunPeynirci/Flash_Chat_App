@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823992555320",
+    "project_id": "flash--chat-fd9d2",
+    "storage_bucket": "flash--chat-fd9d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823992555320:android:0aa0272b888ab93610d3cd",
+        "android_client_info": {
+          "package_name": "com.efsun.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823992555320-cic1hj7fqt7ujur9hgq2b9plohf72amu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1o_3xcC9gIJf07NskLlsIbFfp7C5u9ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823992555320-cic1hj7fqt7ujur9hgq2b9plohf72amu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
