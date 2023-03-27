@@ -1,16 +1,9 @@
 # flash_chat
 
-A new Flutter project.
+A chat application where we can message with our friends after signing up for the Flash Chat application.
 
-## Getting Started
+I used Firebase as database.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/100719856/227959692-9d9ebbb3-66be-4aab-b910-ecdbb2ec14ff.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
