@@ -15,7 +15,6 @@ Flash Chat is a real-time chat application built with Flutter, Firebase, and Clo
 ### 🎮 User Management
 - **Sign Up**: Create an account by entering your email and password.
 - **Log In**: Access your account securely.
-- **Log Out**: Exit the app anytime, maintaining privacy.
 
 ### 🔄 Cross-Platform Compatibility
 - Responsive design for both Android and iOS devices.
